@@ -11,6 +11,7 @@ Some things may not work as expected, it will be fixed (someday :man_shrugging:)
 **TODO**  
   - Front-End (WIP)  
   - SRE  
+  - Implement some tests
  
 **Pull me from:**  
 [![Twitter](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-pereira-santos-865521140/)  
