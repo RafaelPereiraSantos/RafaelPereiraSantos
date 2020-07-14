@@ -15,7 +15,6 @@ Make sure to have these on hand in order to make everthing work properly.
   - Front-End (WIP)  
   - SRE  
  
-**Contacts :inbox_tray:**  
 **pull me from:**  
 [![Twitter](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-pereira-santos-865521140/)  
 
