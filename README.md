@@ -1,6 +1,6 @@
 ### rafael-pereira-santos-dev [![Twitter](https://img.shields.io/static/v1?label=Code%20Quality&message=Reasonable&color=brightgreen)](https://github.com/RafaelPereiraSantos)  
-This projects is an attempt to create a developers.  
-Some things may not work as expected, it will be fixed (someday :man_shrugging:).  
+This projects is an attempt to create a developer.  
+Some features may not work as expected, it will be fixed (someday :man_shrugging:).  
 
 **Dependences** 
   - :tea: (Tea)
