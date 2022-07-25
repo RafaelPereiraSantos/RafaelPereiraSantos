@@ -1,5 +1,5 @@
 ### rafael-pereira-santos-dev [![Twitter](https://img.shields.io/static/v1?label=Code%20Quality&message=Reasonable&color=brightgreen)](https://github.com/RafaelPereiraSantos)  
-This projects is an attempt to create a developer.  
+This projects is an attempt of creating a developer.  
 Some features may not work as expected, it will be fixed (someday :man_shrugging:).  
 
 **Dependences** 
